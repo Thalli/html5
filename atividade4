@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang=”pt-br”>
+     <head>
+          <meta charset=”UTF-8” />
+          <title>Personalidades</title>
+     </head>
+     <body>
+          <header>
+               <a href="#brad">Brad Pitt</a>
+               <a href="#johnny">Johnny Depp</a>
+               <a href="#tom">Tom Cruise</a>
+          </header>
+          <section id="brad">
+               <h3>Brad Pitt</h3>
+               <a href="http://pt.wikipedia.org/wiki/Brad_Pitt" title="Clique para saber mais">
+                    <img src="http://www.google.com.br/imgres?imgurl=http://assets-s3.usmagazine.com/uploads/assets/celebrities/238-brad-pitt/1250530894_brad_pitt_290x402.jpg&imgrefurl=http://www.usmagazine.com/celebrities/brad-pitt&h=264&w=191&tbnid=hCxWMHsf6iBCIM:&zoom=1&tbnh=186&tbnw=134&usg=__fhBcqzSK1_gAiDwe8oh8ktB0y1I=&docid=R8u6kFGSMmafrM&itg=1&ved=0CJcBEMo3&ei=ky93VKqGIIyrNrjIgLgE" alt="Brad Pitt"/>
+               </a>
+          </section>
+          <section id="johnny">
+               <h3>Johnny Depp</h3>
+               <a href="http://pt.wikipedia.org/wiki/Johnny_Depp" title="Clique para saber mais">
+                    <img src="http://www.google.com.br/imgres?imgurl=http://ia.media-imdb.com/images/M/MV5BMTM0ODU5Nzk2OV5BMl5BanBnXkFtZTcwMzI2ODgyNQ%40%40._V1_SY317_CR4,0,214,317_AL_.jpg&imgrefurl=http://www.imdb.com/name/nm0000136/&h=253&w=171&tbnid=x5TEdSm6c45Y1M:&zoom=1&tbnh=186&tbnw=125&usg=__DoSCSbZ3NL9X6B-kxFy00P7ssxA=&docid=IkfpMK4LmE_8MM&itg=1&ved=0CJEBEMo3&ei=CzB3VM2uDYG_ggSZzIDABg" alt="Johnny Depp"/>
+               </a>
+          </section>
+          <section id="tom">
+               <h3>Tom Cruise</h3>
+               <a href="http://pt.wikipedia.org/wiki/Tom_Cruise" title="Clique para saber mais">
+                    <img src="https://www.google.com.br/search?q=tom+cruise&biw=1366&bih=667&tbm=isch&imgil=IViUbpKnge-nfM%253A%253BfQyMeiEWt4pm6M%253Bhttp%25253A%25252F%25252Fwepick.com.br%25252Fetc%25252F10-fatos-que-voce-nao-sabia-sobre-tom-cruise%25252F&source=iu&pf=m&fir=IViUbpKnge-nfM%253A%252CfQyMeiEWt4pm6M%252C_&usg=__p4GF1rpHrfblyp4ttVtROpqfg28%3D&ved=0CJUBEMo3&ei=PDB3VJnrNYKYgwTE9IKoDw" alt="Tom Cruise"/>
+               </a>
+          </section>      
+          <footer>
+               <p>
+                    <i>
+                         Autoria de <b>Thallita Bezerra</b>
+                         <a href="mailto:bezerrathallita@gmail.com"</a>
+                    </i>
+               </p>               
+          </footer>
+      </body>
+</html>
