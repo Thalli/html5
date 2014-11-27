@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang=”pt-br”>
+<head>
+<meta charset=”UTF-8” />
+<title>T&iacute;tulo da p&aacute;gina</title>
+</head>
+<body>
+ <table>
+   <thead>
+<tr>
+<th>Frutas</th>
+<th>Verduras</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>frutas</td>
+<td>verduras</td>
+</tr>
+</tbody>
+</table>
+ 
+</body>
+</html>
